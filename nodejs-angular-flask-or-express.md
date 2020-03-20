@@ -16,16 +16,16 @@
     ```
 4. We’ll want to install **Express for the server** and **node-postgres** (pg) to be able to connect to PostgreSQL.
    ```
-   # express server and node-postgress
+   #express server and node-postgress
    npm i express pg
    ```    
 5. To install pipenv, simply open a terminal and type the following command:
    ```
-    # depending on the environment, you will have to use
-    # pip3 instead of pip (just once)
+    #depending on the environment, you will have to use
+    #pip3 instead of pip (just once)
     pip install pipenv
     
-    # initialize the virtual environment
+    #initialize the virtual environment
     pipenv install -v
 
     #To activate this project's virtualenv, run pipenv shell.
