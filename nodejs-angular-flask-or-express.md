@@ -38,3 +38,12 @@
     ```
         pipenv install sqlalchemy psycopg2-binary   
     ```
+    
+# Setup Angular + Python + Flask — Full stack demo:
+Install Python stable version
+2. Install “pip” package. Download below file and execute it. It should install pip. (Don’t know what is pip? It is similar to “npm” or “NuGet” for Python packages)
+https://bootstrap.pypa.io/get-pip.py
+3. Update pip and setup tools — `pip install — upgrade pip setuptools`
+4. Install virtual environment for pip— `pip install virtualenv`
+5. Install flask — `pip install Flask`
+6. Install flask helper packages — ` pip install flask flask-jsonpify flask-sqlalchemy flask-restful`    
