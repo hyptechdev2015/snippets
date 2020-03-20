@@ -6,6 +6,9 @@
 
 3. Install Angular https://angular.io/cli 
     ```
+    --Installing Angular CLI
+    npm install -g @angular/cli
+    ---
     ng help
     ng generate --help
     ---
