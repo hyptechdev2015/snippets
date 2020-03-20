@@ -19,7 +19,7 @@
    //express server and node-postgress
    npm i express pg
    ```    
-5. To install pipenv, simply open a terminal and type the following command:
+5. To install pipenv, simply open a terminal and type the following command
    ```
     //depending on the environment, you will have to use
     //pip3 instead of pip (just once)
