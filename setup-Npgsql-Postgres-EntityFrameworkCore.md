@@ -13,7 +13,7 @@ dotnet tool update --global dotnet-ef
 --install this if require
 dotnet add package Microsoft.EntityFrameworkCore.Design
 --generate MODEL
-dotnet ef dbcontext scaffold "Host=192.168.1.210;Database=pyCenter;Username=kevin;Password=kkathy99" Npgsql.EntityFrameworkCore.PostgreSQL -o Model -c "pyCenterDBContext"
+dotnet ef dbcontext scaffold "Host=ip;Database=name;Username=user;Password=pass" Npgsql.EntityFrameworkCore.PostgreSQL -o Model -c "pyCenterDBContext"
 ```
 *Using an Existing Database (Database-First)
 The Npgsql EF Core provider also supports reverse-engineering a code model from an existing PostgreSQL database ("database-first"). To do so, use dotnet CLI to execute the following:*
