@@ -19,3 +19,9 @@ dotnet ef dbcontext scaffold "Host=ip;Database=name;Username=user;Password=pass"
 The Npgsql EF Core provider also supports reverse-engineering a code model from an existing PostgreSQL database ("database-first"). To do so, use dotnet CLI to execute the following:*
 
 `dotnet ef dbcontext scaffold "Host=my_host;Database=my_db;Username=my_user;Password=my_pw" Npgsql.EntityFrameworkCore.PostgreSQL`
+
+### Blazor Web Assembly App Template/Review
+
+https://www.nuget.org/packages/Microsoft.AspNetCore.Blazor.Templates/3.1.0-preview4.19579.2
+
+`dotnet new --install Microsoft.AspNetCore.Blazor.Templates::3.1.0-preview4.19579.2`
