@@ -30,6 +30,8 @@ https://www.nuget.org/packages/Microsoft.AspNetCore.Blazor.Templates/3.1.0-previ
 
 https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-aspnetcore-3.1.2-windows-hosting-bundle-installer
 
+https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/aspnet-core-module?view=aspnetcore-3.1
+
 ```
 HTTP Error 500.31 - ANCM Failed to Find Native Dependencies
 Common solutions to this issue:
