@@ -36,5 +36,19 @@ I love to be part of the company...
     * Postponse the negotiation
     * Avoid mentioning your last salary, talk about budgets...
     * Make them talk first
-    * 
+    * Keep your option open
+    * negotiate future increase
+    * avoid bluffing
+    * stand your ground
+    * get it in writing
+
+### [FreeCoursesOnline.Me] Lynda - Find Your Dream Job Interview Techniques And Resume Writing
+* Before the interview
+    * read
+    * plan
+    * research
+* prepare to ask quesstion
+    * is there paid continue education
+    * is there option in Massachusetts
+    * a
 
