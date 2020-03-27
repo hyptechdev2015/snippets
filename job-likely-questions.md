@@ -1,4 +1,4 @@
-**Likely Question #1**
+Likely Question #1
 ```
 Q. Tell us about yourself
 A. I'm a pretty active guy. Involved in two basketball
