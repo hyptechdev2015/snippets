@@ -100,3 +100,45 @@ A. Yes.
 v Don’t elaborate
 v Soft bias or discrimination?
 ```
+Likely Question #10
+```
+Q. Why are you leaving your current job?
+A. I enjoy working there but the organization structure
+doesn’t offer me a slot for advancement and the team
+showed little interest with moving forward with new
+technologies. So, essentially, I am stuck. 
+
+v Don’t discuss issues with employees or managers
+v Stay positive and avoid negative body language
+v Interviewers are looking for problematic employees
+```
+Likely Question #11
+```
+Q. What separates you from other candidates?
+A. Business is not a game to me.
+A. I never confuse activity with results.
+A. I don’t believe in service pack 1 mentality. 
+
+v Give short direct answers
+v Don’t ramble on about skills or willingness to work
+v Success is the only thing that matters
+```
+Likely Question #12
+```
+Q. Are you willing to travel?
+A. Sure. 
+v Give short direct answers
+v Don’t offer willingness based on conditions
+v Ask recruiter ahead of time about travel
+```
+Likely Question #13
+```
+Q. Tell me about your previous boss?
+A. He was extremely bright and really understood the
+business and its clients. He was also great about
+communicating what he wanted our technology to
+be able to do and why. 
+
+v Stay positive
+v Nothing to gain by airing dirty laundry
+```
