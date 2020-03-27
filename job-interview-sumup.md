@@ -68,8 +68,16 @@ I love to be part of the company...
         * Body language
             * smile, this is going to be brilliant
         * Cloth...smart and boring
-        * Need to be **LIKED**
-            * make them feel important, be prepared
-            * admiring them
-            * ask lots of question be a good listener
+    * Need to be **LIKED**
+        * make them feel important, be prepared
+        * admiring them
+        * ask lots of question be a good listener
+        * adapt to style of communication 
+    * Awswering Questions
+        * rephrase the question...give answere...
+        * **NO negative about previous company**
+        * watch their body language
+        * don't end with excuse or apology
+        * some difficut...what are you asking for...?
+        * bring in **Real Data**....
         * 
