@@ -51,4 +51,25 @@ I love to be part of the company...
     * is there paid continue education
     * is there option in Massachusetts
     * a
+* arrival
+    * be early
+    * chat with receitionish
+    * how the company doing?
+    * decline cake...eating...
 
+* **The interview ifself**
+    * First impression
+        * **PEAR**
+            * Positive
+            * Easy to work with
+            * Appear in control
+            * Reliable
+
+        * Body language
+            * smile, this is going to be brilliant
+        * Cloth...smart and boring
+        * Need to be **LIKED**
+            * make them feel important, be prepared
+            * admiring them
+            * ask lots of question be a good listener
+        * 
