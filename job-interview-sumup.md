@@ -16,5 +16,8 @@ https://www.youtube.com/watch?v=yBtMwyQFXwA
     *  English...public speaking...   
     *  
 * where do you see yourself in 5 years?
-    * In 5 year, I would like to be...
-    * 
+    * In 5 year, I would like to be...I in interest in growth, I would to be in lead software developer
+
+* do you have any question for me? (how well you know about company...)
+    * yes, a person exceed your expaction, what did he/she do that impress you the most...
+
