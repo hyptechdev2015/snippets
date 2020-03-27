@@ -23,7 +23,13 @@ https://www.youtube.com/watch?v=yBtMwyQFXwA
     * **Ask back:** who are the team that I would be working with?
 
 
-
-
 Thanks for consider me in this postion...
 I love to be part of the company...
+
+### [Tutsgalaxy.com] - #1 Modern Job Search Strategies for 2019 - Interview Tips
+* SAR
+    * Situation
+    * Action
+    * Result
+
+
