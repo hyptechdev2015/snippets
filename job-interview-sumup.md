@@ -32,4 +32,9 @@ I love to be part of the company...
     * Action
     * Result
 
+* Salary Negotiation
+    * Postponse the negotiation
+    * Avoid mentioning your last salary, talk about budgets...
+    * Make them talk first
+    * 
 
