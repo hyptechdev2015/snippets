@@ -18,10 +18,9 @@ https://www.youtube.com/watch?v=yBtMwyQFXwA
 * where do you see yourself in 5 years?
     * In 5 year, I would like to be...I in interest in growth, I would to be in lead software developer
 
-* **Ask back:** do you have any question for me? (how well you know about company...)
-    * yes, a person exceed your expaction, what did he/she do that impress you the most...
-
-* **Ask back:** who are the team that I would be working with?
+* do you have any question for me? (how well you know about company...)
+    * **Ask back:** yes, a person exceed your expaction, what did he/she do that impress you the most...
+    * **Ask back:** who are the team that I would be working with?
 
 
 
