@@ -11,3 +11,13 @@ v Do not reference career or skills
 v Interviewer asked about you not your career
 v Similar to being introduced at a party
 ```
+Likely Question #2
+```
+Q. Do you prefer to work with a team or by yourself?
+A. I can work by myself but really prefer to work in teams.
+The projects tend to be harder and more rewarding.
+Plus, I’m likely to learn different techniques I hadn’t
+considered.
+v Always answer team
+v Work alone = signals difficulty working with others
+```
